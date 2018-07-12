@@ -3,7 +3,7 @@ The goal of this project is to use SF data to prioritize buildings with a high-f
 
 Important Notes: 
 
-The Clean_datsets notebooks require raw data sets (csv) format obtained from https://datasf.org/opendata/
+The Clean_datsets notebooks require raw data sets (csv format) obtained from https://datasf.org/opendata/
 
 Sources listed below:
 
